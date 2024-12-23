@@ -38,7 +38,7 @@ body {
 img {
   display: flex;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 a {
@@ -343,4 +343,4 @@ html {
 }
 .footer__text:hover {
   background-color: rgb(117, 92, 222);
-} /*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
